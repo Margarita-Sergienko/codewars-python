@@ -5,4 +5,5 @@
 
 
 # 7 kuy
+## Consecutive letters
 ## Unique string characters
