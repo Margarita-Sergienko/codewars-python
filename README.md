@@ -2,6 +2,7 @@
 
 # 6 kuy
 ## Backspaces in string
+## CamelCase Method
 ## Character with longest consecutive repetition
 
 
