@@ -8,4 +8,5 @@
 
 # 7 kuy
 ## Consecutive letters
+## Responsible Drinking
 ## Unique string characters
