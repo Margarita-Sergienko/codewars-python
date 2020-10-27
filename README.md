@@ -7,6 +7,7 @@
 ## Backspaces in string
 ## CamelCase Method
 ## Character with longest consecutive repetition
+## Find the unique number
 
 
 # 7 kuy
