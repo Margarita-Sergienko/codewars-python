@@ -14,4 +14,5 @@
 ## Birthday II - Presents
 ## Consecutive letters
 ## Responsible Drinking
+## String Task
 ## Unique string characters
