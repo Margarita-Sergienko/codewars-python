@@ -8,6 +8,7 @@
 ## CamelCase Method
 ## Character with longest consecutive repetition
 ## Find the unique number
+## Sum of prime-indexed elements
 
 
 # 7 kuy
