@@ -1,6 +1,7 @@
 # codewars-python
 
 # 5 kuy
+## Human Readable Time
 ## Pete, the baker
 ## Valid Parentheses
 
