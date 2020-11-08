@@ -9,6 +9,7 @@
 ## Backspaces in string
 ## CamelCase Method
 ## Character with longest consecutive repetition
+## Find the missing letter
 ## Find the unique number
 ## Sum of prime-indexed elements
 
