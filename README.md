@@ -24,3 +24,7 @@
 ## String Task
 ## The Office IV - Find a Meeting Room
 ## Unique string characters
+
+
+# 8 kuy
+## Rock Paper Scissors!
