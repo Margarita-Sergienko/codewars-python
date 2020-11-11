@@ -28,3 +28,4 @@
 
 # 8 kuy
 ## Rock Paper Scissors!
+## Series of integers from m to n
