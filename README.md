@@ -29,3 +29,6 @@
 # 8 kuy
 ## Rock Paper Scissors!
 ## Series of integers from m to n
+
+# Beta
+## Find longest sequence of an element in array
