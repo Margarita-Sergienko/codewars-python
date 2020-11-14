@@ -22,7 +22,9 @@
 ## Pluck
 ## Responsible Drinking
 ## String Task
+## Sum of all the multiples of 3 or 5
 ## The Office IV - Find a Meeting Room
+## Tidy Number (Special Numbers Series #9)
 ## Unique string characters
 
 
