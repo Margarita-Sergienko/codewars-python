@@ -21,6 +21,7 @@
 ## Find the Capitals
 ## Pluck
 ## Responsible Drinking
+## String doubles
 ## String Task
 ## Sum of all the multiples of 3 or 5
 ## The Office IV - Find a Meeting Room
