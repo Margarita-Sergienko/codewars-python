@@ -35,3 +35,4 @@
 
 # Beta
 ## Find longest sequence of an element in array
+## transform an array into a string
