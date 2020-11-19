@@ -32,6 +32,7 @@
 
 
 # 8 kuy
+## Fix the Bugs (Syntax) - My First Kata
 ## Rock Paper Scissors!
 ## Series of integers from m to n
 
