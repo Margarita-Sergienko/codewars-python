@@ -32,6 +32,7 @@
 
 
 # 8 kuy
+## Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right
 ## Fix the Bugs (Syntax) - My First Kata
 ## Rock Paper Scissors!
 ## Series of integers from m to n
