@@ -18,6 +18,7 @@
 # 7 kuy
 ## All Star Code Challenge #3
 ## Birthday II - Presents
+## Complete The Pattern #2
 ## Consecutive letters
 ## Find the Capitals
 ## Pluck
