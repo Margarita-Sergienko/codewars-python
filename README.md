@@ -12,6 +12,7 @@
 ## Does my number look big in this?
 ## Find the missing letter
 ## Find the unique number
+## String transformer
 ## Sum of prime-indexed elements
 
 
