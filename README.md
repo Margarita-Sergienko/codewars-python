@@ -1,6 +1,7 @@
 # codewars-python
 
 # 5 kuy
+## First non-repeating character
 ## Human Readable Time
 ## Pete, the baker
 ## Valid Parentheses
