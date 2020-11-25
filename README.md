@@ -4,6 +4,7 @@
 ## First non-repeating character
 ## Human Readable Time
 ## Pete, the baker
+## Simple Pig Latin
 ## Valid Parentheses
 
 # 6 kuy
