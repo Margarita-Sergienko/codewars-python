@@ -7,6 +7,7 @@
 ## Simple Pig Latin
 ## Valid Parentheses
 
+
 # 6 kuy
 ## Backspaces in string
 ## CamelCase Method
@@ -16,6 +17,7 @@
 ## Find the unique number
 ## String transformer
 ## Sum of prime-indexed elements
+## Sum two arrays
 
 
 # 7 kuy
@@ -40,6 +42,7 @@
 ## Fix the Bugs (Syntax) - My First Kata
 ## Rock Paper Scissors!
 ## Series of integers from m to n
+
 
 # Beta
 ## Find longest sequence of an element in array
