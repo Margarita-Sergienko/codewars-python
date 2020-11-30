@@ -26,6 +26,7 @@
 ## Complete The Pattern #2
 ## Consecutive letters
 ## Find the Capitals
+## Max-min arrays
 ## Pluck
 ## Responsible Drinking
 ## String doubles
