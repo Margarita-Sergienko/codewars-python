@@ -44,6 +44,7 @@
 ## Multiply
 ## Rock Paper Scissors!
 ## Series of integers from m to n
+## Switch it Up!
 
 
 # Beta
