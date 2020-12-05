@@ -25,6 +25,7 @@
 ## Birthday II - Presents
 ## Complete The Pattern #2
 ## Consecutive letters
+## Convert Color image to greyscale
 ## Find the Capitals
 ## Max-min arrays
 ## Pluck
