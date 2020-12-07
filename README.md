@@ -27,6 +27,7 @@
 ## Consecutive letters
 ## Convert Color image to greyscale
 ## Find the Capitals
+## How many consecutive numbers are needed?
 ## Max-min arrays
 ## Pluck
 ## Responsible Drinking
