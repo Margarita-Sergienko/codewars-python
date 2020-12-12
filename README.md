@@ -28,6 +28,7 @@
 ## Convert Color image to greyscale
 ## Find the Capitals
 ## How many consecutive numbers are needed?
+## Javascript filter - 1
 ## Max-min arrays
 ## Pluck
 ## Responsible Drinking
