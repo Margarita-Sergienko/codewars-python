@@ -35,6 +35,7 @@
 ## String doubles
 ## String Task
 ## Sum of all the multiples of 3 or 5
+## Switcheroo
 ## The Office IV - Find a Meeting Room
 ## Tidy Number (Special Numbers Series #9)
 ## L2: Triple X
