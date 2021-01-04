@@ -23,6 +23,7 @@
 # 7 kuy
 ## All Star Code Challenge #3
 ## Birthday II - Presents
+## Bug Squish!
 ## Complete The Pattern #2
 ## Consecutive letters
 ## Convert Color image to greyscale
